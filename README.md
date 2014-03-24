@@ -15,7 +15,7 @@ To add this repository to your maven project, add this to your pom.xml
         <dependency>
             <groupId>at.pavlov</groupId>
             <artifactId>Cannons</artifactId>
-            <version>2.2.1</version>
+            <version>2.2.0-SNAPSHOT</version>
         </dependency>
         ...
     </dependencies>
