@@ -3,11 +3,13 @@
   <groupId>at.pavlov</groupId>
   <artifactId>Cannons</artifactId>
   <versioning>
-    <release>2.4.2</release>
+    <release>2.4.5</release>
     <versions>
       <version>2.4.2</version>
       <version>2.4.3</version>
+      <version>2.4.4</version>
+      <version>2.4.5</version>
     </versions>
-    <lastUpdated>20160515204052</lastUpdated>
+    <lastUpdated>20161009150327</lastUpdated>
   </versioning>
 </metadata>
